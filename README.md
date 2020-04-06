@@ -1,6 +1,6 @@
 # Stein Variational Gradient Descent with Variance Reduction (SVGD-VR)
 
-Code to reproduce the results in the paper 'Stein variational gradient descent with variance reduction', IJCNN 2019.
+Code to reproduce the results in the paper 'Stein variational gradient descent with variance reduction', IJCNN 2020.
 
 Tested with Python 3.6 and TensorFlow 1.13.
 
